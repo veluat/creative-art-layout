@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/creative-art-layout/static/css/main.b05a0f93.css",
+    "main.js": "/creative-art-layout/static/js/main.db69dab5.js",
+    "static/js/111.68cca464.chunk.js": "/creative-art-layout/static/js/111.68cca464.chunk.js",
+    "static/media/ava-1.svg": "/creative-art-layout/static/media/ava-1.05c32801981b4f91da27e69452752ef3.svg",
+    "static/media/section-4-3.webp": "/creative-art-layout/static/media/section-4-3.31c6f7cb2650ead49bfa.webp",
+    "static/media/section-4-5.webp": "/creative-art-layout/static/media/section-4-5.92c11ba6e0d39245ad2e.webp",
+    "static/media/section-4-4.webp": "/creative-art-layout/static/media/section-4-4.11973b0ac6f8f6cef4a2.webp",
+    "static/media/section-5-2.webp": "/creative-art-layout/static/media/section-5-2.56be0c693247533b227e.webp",
+    "static/media/section-1.webp": "/creative-art-layout/static/media/section-1.9eab4322d57d22f1d4ae.webp",
+    "static/media/section-4-2.webp": "/creative-art-layout/static/media/section-4-2.3014f4086ab60aab67b1.webp",
+    "static/media/section-2-3.webp": "/creative-art-layout/static/media/section-2-3.41b44cfd3248bf129140.webp",
+    "static/media/section-5-1.webp": "/creative-art-layout/static/media/section-5-1.a56a880951f2c8d21bdb.webp",
+    "static/media/section-4-1.webp": "/creative-art-layout/static/media/section-4-1.0664c502ac547ca293d2.webp",
+    "static/media/section-3-2.webp": "/creative-art-layout/static/media/section-3-2.7c1a6002bd4475710a72.webp",
+    "static/media/section-2-2.webp": "/creative-art-layout/static/media/section-2-2.3c96df2c0e6dd1faa89c.webp",
+    "static/media/section-2-1.webp": "/creative-art-layout/static/media/section-2-1.c953aa1e5aeb297148cc.webp",
+    "static/media/section-3-1.webp": "/creative-art-layout/static/media/section-3-1.dd286f604a485bcef3c6.webp",
+    "static/media/icons-sprite.svg": "/creative-art-layout/static/media/icons-sprite.ef5987f03e05c74a2d3584b4aede7088.svg",
+    "index.html": "/creative-art-layout/index.html",
+    "main.b05a0f93.css.map": "/creative-art-layout/static/css/main.b05a0f93.css.map",
+    "main.db69dab5.js.map": "/creative-art-layout/static/js/main.db69dab5.js.map",
+    "111.68cca464.chunk.js.map": "/creative-art-layout/static/js/111.68cca464.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b05a0f93.css",
+    "static/js/main.db69dab5.js"
+  ]
+}
