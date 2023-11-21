@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/creative-art-layout/static/css/main.8aeb4d60.css",
-    "main.js": "/creative-art-layout/static/js/main.601629f1.js",
+    "main.css": "/creative-art-layout/static/css/main.197ad438.css",
+    "main.js": "/creative-art-layout/static/js/main.b34e2074.js",
     "static/js/111.68cca464.chunk.js": "/creative-art-layout/static/js/111.68cca464.chunk.js",
+    "static/media/BgImage.svg": "/creative-art-layout/static/media/BgImage.cc4944d4491af2c09a9c.svg",
     "static/media/ava-1.svg": "/creative-art-layout/static/media/ava-1.05c32801981b4f91da27e69452752ef3.svg",
     "static/media/section-4-3.webp": "/creative-art-layout/static/media/section-4-3.31c6f7cb2650ead49bfa.webp",
     "static/media/section-4-5.webp": "/creative-art-layout/static/media/section-4-5.92c11ba6e0d39245ad2e.webp",
@@ -17,23 +18,14 @@
     "static/media/section-2-2.webp": "/creative-art-layout/static/media/section-2-2.3c96df2c0e6dd1faa89c.webp",
     "static/media/section-2-1.webp": "/creative-art-layout/static/media/section-2-1.c953aa1e5aeb297148cc.webp",
     "static/media/section-3-1.webp": "/creative-art-layout/static/media/section-3-1.dd286f604a485bcef3c6.webp",
-    "static/media/CanelaText-Bold.eot?": "/creative-art-layout/static/media/CanelaText-Bold.09844f3175a557b1041a.eot",
-    "static/media/CanelaText-Medium.eot?": "/creative-art-layout/static/media/CanelaText-Medium.f59b7ca0c238774f62a0.eot",
-    "static/media/CanelaText-Regular.eot?": "/creative-art-layout/static/media/CanelaText-Regular.db91a49dc1f1dcec3151.eot",
-    "static/media/CanelaText-Bold-Trial.otf": "/creative-art-layout/static/media/CanelaText-Bold-Trial.c0ab8106361bf71028dc.otf",
-    "static/media/CanelaText-Medium-Trial.otf": "/creative-art-layout/static/media/CanelaText-Medium-Trial.0cbfee4e6c678c4302a8.otf",
-    "static/media/CanelaText-Regular-Trial.otf": "/creative-art-layout/static/media/CanelaText-Regular-Trial.a98d480efa9cc432791c.otf",
     "static/media/icons-sprite.svg": "/creative-art-layout/static/media/icons-sprite.ef5987f03e05c74a2d3584b4aede7088.svg",
-    "static/media/CanelaText-Bold.woff2": "/creative-art-layout/static/media/CanelaText-Bold.d91722d495d59bb6133b.woff2",
-    "static/media/CanelaText-Medium.woff2": "/creative-art-layout/static/media/CanelaText-Medium.ce69db44b21604bf8137.woff2",
-    "static/media/CanelaText-Regular.woff2": "/creative-art-layout/static/media/CanelaText-Regular.49017ae28a3ee6bec841.woff2",
     "index.html": "/creative-art-layout/index.html",
-    "main.8aeb4d60.css.map": "/creative-art-layout/static/css/main.8aeb4d60.css.map",
-    "main.601629f1.js.map": "/creative-art-layout/static/js/main.601629f1.js.map",
+    "main.197ad438.css.map": "/creative-art-layout/static/css/main.197ad438.css.map",
+    "main.b34e2074.js.map": "/creative-art-layout/static/js/main.b34e2074.js.map",
     "111.68cca464.chunk.js.map": "/creative-art-layout/static/js/111.68cca464.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8aeb4d60.css",
-    "static/js/main.601629f1.js"
+    "static/css/main.197ad438.css",
+    "static/js/main.b34e2074.js"
   ]
 }
