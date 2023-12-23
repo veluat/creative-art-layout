@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/creative-art-layout/static/css/main.4b29d63d.css",
-    "main.js": "/creative-art-layout/static/js/main.02d5b72f.js",
+    "main.js": "/creative-art-layout/static/js/main.c28526a5.js",
     "static/js/111.68cca464.chunk.js": "/creative-art-layout/static/js/111.68cca464.chunk.js",
     "static/media/BgImage.svg": "/creative-art-layout/static/media/BgImage.cc4944d4491af2c09a9c.svg",
     "static/media/ava-1.svg": "/creative-art-layout/static/media/ava-1.05c32801981b4f91da27e69452752ef3.svg",
@@ -18,14 +18,14 @@
     "static/media/section-2-2.webp": "/creative-art-layout/static/media/section-2-2.3c96df2c0e6dd1faa89c.webp",
     "static/media/section-2-1.webp": "/creative-art-layout/static/media/section-2-1.c953aa1e5aeb297148cc.webp",
     "static/media/section-3-1.webp": "/creative-art-layout/static/media/section-3-1.dd286f604a485bcef3c6.webp",
-    "static/media/icons-sprite.svg": "/creative-art-layout/static/media/icons-sprite.ef5987f03e05c74a2d3584b4aede7088.svg",
+    "static/media/icons-sprite.svg": "/creative-art-layout/static/media/icons-sprite.e30b886ab0c289774284844b9248cb61.svg",
     "index.html": "/creative-art-layout/index.html",
     "main.4b29d63d.css.map": "/creative-art-layout/static/css/main.4b29d63d.css.map",
-    "main.02d5b72f.js.map": "/creative-art-layout/static/js/main.02d5b72f.js.map",
+    "main.c28526a5.js.map": "/creative-art-layout/static/js/main.c28526a5.js.map",
     "111.68cca464.chunk.js.map": "/creative-art-layout/static/js/111.68cca464.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b29d63d.css",
-    "static/js/main.02d5b72f.js"
+    "static/js/main.c28526a5.js"
   ]
 }
