@@ -108,7 +108,7 @@ Error generating stack: `+o.message+`
     justify-content: center;
     align-items: center;
   }
-`,A0="/creative-art/assets/svg-sprite-b223f013.svg",bn=e=>p.jsx("svg",{width:e.width||"24",height:e.height||"24",viewBox:e.viewBox||"0 0 24 24",fill:"none",xmlns:"http://www.w3.org/2000/svg",children:p.jsx("use",{xlinkHref:`${A0}#${e.IconTitle}`})}),F0=j.div`
+`,A0="/creative-art-layout/assets/svg-sprite-b223f013.svg",bn=e=>p.jsx("svg",{width:e.width||"24",height:e.height||"24",viewBox:e.viewBox||"0 0 24 24",fill:"none",xmlns:"http://www.w3.org/2000/svg",children:p.jsx("use",{xlinkHref:`${A0}#${e.IconTitle}`})}),F0=j.div`
   position: relative;
 
   h3 {
@@ -409,7 +409,7 @@ font-size: clamp(${i}px, calc( (100vw - 375px)/(1290 - 375) * (${o} - ${i}) + ${
     height: 221px;
     background-image: radial-gradient(65% 55%, rgba(26, 38, 82, 1), rgba(26, 38, 82, 0));
   }
-`,s1=({mainData:e})=>p.jsxs(u1,{children:[p.jsxs(M,{wrap:"wrap",children:[p.jsx(Zn,{img:e.backgroundImage,width:"464px",height:"544px",radius:"24px"}),p.jsx(r1,{})]}),p.jsx(a1,{price:e.price,endingTime:e.endingTime})]}),c1="/creative-art/assets/section-1-0ae6816c.webp",Qc={price:"0.24ETH",endingTime:"03:24:56",backgroundImage:c1,statistics:[{id:1,title:"Art work",value:8.9},{id:2,title:"Artist",value:65},{id:3,title:"Collection",value:87}]},f1=e=>{const{title:t,primary:n,spanText:r,...i}=e;return p.jsx(d1,{...i,children:p.jsxs(M,{direction:"column",gap:"16px",children:[p.jsx(ir,{title:t,primary:n}),p.jsx(on,{spanText:r})]})})},d1=j.div`
+`,s1=({mainData:e})=>p.jsxs(u1,{children:[p.jsxs(M,{wrap:"wrap",children:[p.jsx(Zn,{img:e.backgroundImage,width:"464px",height:"544px",radius:"24px"}),p.jsx(r1,{})]}),p.jsx(a1,{price:e.price,endingTime:e.endingTime})]}),c1="/creative-art-layout/assets/section-1-0ae6816c.webp",Qc={price:"0.24ETH",endingTime:"03:24:56",backgroundImage:c1,statistics:[{id:1,title:"Art work",value:8.9},{id:2,title:"Artist",value:65},{id:3,title:"Collection",value:87}]},f1=e=>{const{title:t,primary:n,spanText:r,...i}=e;return p.jsx(d1,{...i,children:p.jsxs(M,{direction:"column",gap:"16px",children:[p.jsx(ir,{title:t,primary:n}),p.jsx(on,{spanText:r})]})})},d1=j.div`
   display: flex;
   gap: 94px;
   padding-right: ${e=>e.isFirstItem?"29px":"24px"};
@@ -483,7 +483,7 @@ font-size: clamp(${i}px, calc( (100vw - 375px)/(1290 - 375) * (${o} - ${i}) + ${
     flex-grow: 1;
     width: 100%;
   }
-`,k1=({width:e,height:t,radius:n,marginBottom:r,widthButtonClear:i,cardData:o})=>p.jsx(S1,{children:o.map(l=>p.jsx(x1,{...l,width:e,height:t,radius:n,marginBottom:r,widthButtonClear:i},l.id))}),_1="/creative-art/assets/section-2-1-ee80d7eb.webp",E1="/creative-art/assets/section-2-2-5074b466.webp",C1="/creative-art/assets/section-2-3-7c3197a1.webp",P1=[{id:1,title:"Cyberpunk Cocomo",backgroundImage:_1},{id:2,title:"Charge, Qi tiao yu",backgroundImage:E1},{id:3,title:"Surgeon, Josh Rife",backgroundImage:C1}],T1=j.div`
+`,k1=({width:e,height:t,radius:n,marginBottom:r,widthButtonClear:i,cardData:o})=>p.jsx(S1,{children:o.map(l=>p.jsx(x1,{...l,width:e,height:t,radius:n,marginBottom:r,widthButtonClear:i},l.id))}),_1="/creative-art-layout/assets/section-2-1-ee80d7eb.webp",E1="/creative-art-layout/assets/section-2-2-5074b466.webp",C1="/creative-art-layout/assets/section-2-3-7c3197a1.webp",P1=[{id:1,title:"Cyberpunk Cocomo",backgroundImage:_1},{id:2,title:"Charge, Qi tiao yu",backgroundImage:E1},{id:3,title:"Surgeon, Josh Rife",backgroundImage:C1}],T1=j.div`
   margin-top: 64px;
   display: flex;
   flex-wrap: wrap;
@@ -496,7 +496,7 @@ font-size: clamp(${i}px, calc( (100vw - 375px)/(1290 - 375) * (${o} - ${i}) + ${
     justify-content: center;
     gap: 16px;
   }
-`,j1=()=>{const e=" and Super Unique Art of This",t=["Amazing"," Week"];return p.jsxs(si,{id:"amazing",children:[p.jsxs(M,{justify:"space-between",align:"flex-end",children:[p.jsx(ir,{title:e,primary:t,width:"600px"}),p.jsx(rr,{buttonName:"See All"})]}),p.jsx(T1,{children:p.jsx(k1,{cardData:P1,width:"370px",height:"340px",radius:"16px",marginBottom:"24px",widthButtonClear:"178px"})})]})},$1="/creative-art/assets/section-3-1-efaa68f9.webp",O1="/creative-art/assets/section-3-2-125e52ac.webp",I1=j.div`
+`,j1=()=>{const e=" and Super Unique Art of This",t=["Amazing"," Week"];return p.jsxs(si,{id:"amazing",children:[p.jsxs(M,{justify:"space-between",align:"flex-end",children:[p.jsx(ir,{title:e,primary:t,width:"600px"}),p.jsx(rr,{buttonName:"See All"})]}),p.jsx(T1,{children:p.jsx(k1,{cardData:P1,width:"370px",height:"340px",radius:"16px",marginBottom:"24px",widthButtonClear:"178px"})})]})},$1="/creative-art-layout/assets/section-3-1-efaa68f9.webp",O1="/creative-art-layout/assets/section-3-2-125e52ac.webp",I1=j.div`
   width: 426px;
   height: 280px;
 `,N1=j.div`
@@ -559,9 +559,9 @@ font-size: clamp(${i}px, calc( (100vw - 375px)/(1290 - 375) * (${o} - ${i}) + ${
   &:last-child {
     grid-area: 1/9/3/13;
   }
-`,U1=({popData:e})=>p.jsx(H1,{children:e.map(t=>p.jsx(B1,{children:p.jsx(F1,{width:t.width,height:t.height,bg:t.bg,spanText:t.userName,avatar:t.avatar,id:t.id},t.id)}))}),W1="/creative-art/assets/section-4-1-c4ab96ff.webp",V1="/creative-art/assets/section-4-2-10f3cb12.webp",Q1="/creative-art/assets/section-4-3-31d0031b.webp",Y1="/creative-art/assets/section-4-4-a9bd8ced.webp",G1="/creative-art/assets/section-4-5-5f190792.webp",K1="/creative-art/assets/ava-1-9b1dddfc.svg",X1="/creative-art/assets/ava-2-9ed05ce6.svg",b1="/creative-art/assets/ava-3-aa09d994.svg",Z1="/creative-art/assets/ava-4-8ff2af81.svg",q1="/creative-art/assets/ava-5-79a77846.svg",J1=[{id:1,userName:"Osvaldo Percy",avatar:K1,bg:W1,width:"300px",height:"311px"},{id:2,userName:"Ranson Sqiure",avatar:X1,bg:V1,width:"520px",height:"311px"},{id:3,userName:"Sebastian waltan",avatar:b1,bg:Q1,width:"410px",height:"311px"},{id:4,userName:"Abraham Zack",avatar:Z1,bg:Y1,width:"410px",height:"311px"},{id:5,userName:"Cristio leo",avatar:q1,bg:G1,width:"410px",height:"652px"}],ew=()=>{const e="Popular ",t="On This Week",n=["","Artists "];return p.jsxs(si,{id:"popular",children:[p.jsxs(M,{justify:"space-between",align:"flex-end",children:[p.jsx(ir,{title:e,title2:t,primary:n,width:"407px"}),p.jsx(rr,{buttonName:"See All"})]}),p.jsx(tw,{children:p.jsx(U1,{popData:J1})})]})},tw=j.div`
+`,U1=({popData:e})=>p.jsx(H1,{children:e.map(t=>p.jsx(B1,{children:p.jsx(F1,{width:t.width,height:t.height,bg:t.bg,spanText:t.userName,avatar:t.avatar,id:t.id},t.id)}))}),W1="/creative-art-layout/assets/section-4-1-c4ab96ff.webp",V1="/creative-art-layout/assets/section-4-2-10f3cb12.webp",Q1="/creative-art-layout/assets/section-4-3-31d0031b.webp",Y1="/creative-art-layout/assets/section-4-4-a9bd8ced.webp",G1="/creative-art-layout/assets/section-4-5-5f190792.webp",K1="/creative-art-layout/assets/ava-1-9b1dddfc.svg",X1="/creative-art-layout/assets/ava-2-9ed05ce6.svg",b1="/creative-art-layout/assets/ava-3-aa09d994.svg",Z1="/creative-art-layout/assets/ava-4-8ff2af81.svg",q1="/creative-art-layout/assets/ava-5-79a77846.svg",J1=[{id:1,userName:"Osvaldo Percy",avatar:K1,bg:W1,width:"300px",height:"311px"},{id:2,userName:"Ranson Sqiure",avatar:X1,bg:V1,width:"520px",height:"311px"},{id:3,userName:"Sebastian waltan",avatar:b1,bg:Q1,width:"410px",height:"311px"},{id:4,userName:"Abraham Zack",avatar:Z1,bg:Y1,width:"410px",height:"311px"},{id:5,userName:"Cristio leo",avatar:q1,bg:G1,width:"410px",height:"652px"}],ew=()=>{const e="Popular ",t="On This Week",n=["","Artists "];return p.jsxs(si,{id:"popular",children:[p.jsxs(M,{justify:"space-between",align:"flex-end",children:[p.jsx(ir,{title:e,title2:t,primary:n,width:"407px"}),p.jsx(rr,{buttonName:"See All"})]}),p.jsx(tw,{children:p.jsx(U1,{popData:J1})})]})},tw=j.div`
   margin-top: 64px;
-`,nw="/creative-art/assets/section-5-1-09984fcc.webp",rw="/creative-art/assets/section-5-2-c8096286.webp",iw=j.div`
+`,nw="/creative-art-layout/assets/section-5-1-09984fcc.webp",rw="/creative-art-layout/assets/section-5-2-c8096286.webp",iw=j.div`
   max-width: 630px;
   width: 100%;
   height: 458px;
